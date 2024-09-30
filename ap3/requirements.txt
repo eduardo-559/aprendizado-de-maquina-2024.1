@@ -1,0 +1,4 @@
+tensorflow
+pillow
+seaborn
+scikit-learn
